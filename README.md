@@ -29,7 +29,7 @@ class Takaokensei:
         self.code = ["Python", "Rust", "C++", "TypeScript"]
         self.focus = ["Explainable AI", "Transformers", "Multi-Agent Systems"]
         self.languages = ["pt-BR (Native)", "en-US (Advanced)", "🇯🇵 日本語 (Learning)"]
-        self.fun_fact = "Mass Effect > Star Wars"
+        self.fun_fact = "Energy conservationist (like Oreki) 🕵️"
     
     def current_work(self):
         return {
