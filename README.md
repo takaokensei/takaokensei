@@ -94,17 +94,17 @@ class Takaokensei:
 </p>
 </td>
 <td width="50%">
-<h3 align="center">⚖️ Legal-NLP-Classifier</h3>
+<h3 align="center">⚖️ Legal-Traceability-LLM</h3>
 <p align="center">
-  <a href="https://github.com/takaokensei/legal-nlp-classifier">
+  <a href="https://github.com/takaokensei/legal-traceability-system">
     <img src="https://img.shields.io/badge/PIBIC_Research-2c4c7c?style=for-the-badge"/>
   </a>
 </p>
-<p align="center"><samp>Comparative analysis: BERT-based Transformers vs. Classical ML baselines for Brazilian legal document classification.</samp></p>
+<p align="center"><samp>Intelligent system for <strong>Normative Traceability</strong>. Uses OCR & LLMs (BERTimbau) to structure municipal PDFs into a consolidated <strong>Django</strong> platform.</samp></p>
 <p align="center">
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/>
-  <img src="https://img.shields.io/badge/🤗_Transformers-FFD21E?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white"/>
+  <img src="https://img.shields.io/badge/BERTimbau-FFD21E?style=flat-square"/>
+  <img src="https://img.shields.io/badge/OCR_Pipeline-4A6FA5?style=flat-square"/>
 </p>
 </td>
 </tr>
