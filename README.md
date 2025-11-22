@@ -1,6 +1,6 @@
 <div align="center">
   
-  <a href="https://git.io/typing-svg">
+  <a href="https://git.io/typing-svg" target="_blank">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi,+I'm+Cauã!+👋;Building+Smart+AI+Agents;Fine-tuning+LLMs;Electrical+Engineering+@+UFRN&font=Fira+Code&center=true&width=440&height=45&color=38bdae&vCenter=true&size=22" alt="Typing SVG" />
   </a>
 
@@ -9,10 +9,11 @@
   </p>
   
   <p>
-    <a href="https://www.linkedin.com/in/cauã-vitor-7bb072286//">
+    <a href="https://www.linkedin.com/in/cauã-vitor-7bb072286/" target="_blank">
       <img src="https://img.shields.io/badge/Connect-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
     </a>
-     <a href="mailto:cauavitorfigueredo@gmail.com">
+    
+    <a href="mailto:cauavitorfigueredo@gmail.com" target="_blank">
       <img src="https://img.shields.io/badge/Contact-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
     </a>
   </p>
