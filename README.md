@@ -127,15 +127,23 @@ class Takaokensei:
 
 <br/>
 
-## `> github_stats`
-
+> metrics_&_analytics
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=takaokensei&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=4A6FA5&icon_color=4A6FA5&text_color=9CA3AF"/>
-  <img width="49%" src="https://github-readme-streak-stats-eight.vercel.app?user=takaokensei&theme=tokyonight&hide_border=true&background=0D1117&ring=4A6FA5&fire=4A6FA5&currStreakLabel=4A6FA5&sideLabels=9CA3AF&dates=6B7280"/>
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=takaokensei&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" />
+  </a>
 </div>
-
+<br/>
 <div align="center">
-  <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=takaokensei&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=4A6FA5&line=4A6FA5&point=ffffff&area=true&area_color=2c4c7c"/>
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=takaokensei&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=4A6FA5&icon_color=4A6FA5&text_color=9CA3AF&include_all_commits=true&count_private=true"/>
+  <img width="41%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=takaokensei&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=4A6FA5&text_color=9CA3AF&icon_color=4A6FA5&hide=jupyter%20notebook&langs_count=8"/>
 </div>
-
+<br/>
+<div align="center">
+  <img width="92%" src="https://github-readme-activity-graph.vercel.app/graph?username=takaokensei&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=4A6FA5&line=4A6FA5&point=ffffff&area=true&area_color=2c4c7c"/>
+</div>
+<div align="center">
+  <br/>
+  <img src="https://komarev.com/ghpvc/?username=takaokensei&style=flat-square&color=2c4c7c&label=PROFILE+VIEWS"/>
+</div>
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=2c4c7c&height=100&section=footer"/>
