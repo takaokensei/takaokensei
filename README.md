@@ -18,6 +18,11 @@
     <img src="https://img.shields.io/badge/-Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <img src="https://komarev.com/ghpvc/?username=takaokensei&style=for-the-badge&color=4A6FA5&label=VISITORS"/>
+  
+  <br/><br/>
+  
+  <img src="https://img.shields.io/badge/🔥_Open_to_Collaborations-2c4c7c?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/PIBIC_Researcher_@_UFRN-4A6FA5?style=for-the-badge"/>
 </div>
 
 <br/>
@@ -41,6 +46,14 @@ class Takaokensei:
             "dev": "Full-stack AI Apps (Node.js, React, Tauri)",
             "exploring": "Advanced RAG & Agent Orchestration"
         }
+    
+    def open_to(self):
+        return [
+            "🤝 Research collaborations",
+            "💡 Open-source contributions", 
+            "🚀 AI/ML projects",
+            "📚 Academic partnerships"
+        ]
 ```
 
 <br/>
@@ -80,71 +93,43 @@ class Takaokensei:
 
 ## `> featured_intelligence`
 
-<table align="center">
-  <tr>
-    <td width="33%">
-      <h3 align="center">🧠 VerbaFlow</h3>
-      <p align="center">
-        <a href="https://github.com/takaokensei/VerbaFlow">
-          <img src="https://img.shields.io/badge/Multi--Agent_NLP-dc2626?style=for-the-badge"/>
-        </a>
-      </p>
-      <p align="center">
-        <samp>
-          Multi-agent text classification system using <strong>CrewAI & Groq</strong>. 
-          Implements <strong>ReAct paradigm</strong> with real-time web enrichment via Tavily API. 
-          Academic project demonstrating agentic orchestration in NLP.
-        </samp>
-      </p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Python-3.12-3776AB?style=flat-square&logo=python&logoColor=white"/>
-        <img src="https://img.shields.io/badge/CrewAI-1e3a8a?style=flat-square"/>
-        <img src="https://img.shields.io/badge/DSA-Capstone-FFD21E?style=flat-square"/>
-        <img src="https://img.shields.io/badge/UFRN-ELE_0606-1e3a8a?style=flat-square"/>
-      </p>
-    </td>
-    <td width="33%">
-      <h3 align="center">🎯 BostonNet</h3>
-      <p align="center">
-        <a href="https://github.com/takaokensei/ufrn-ele-neural-regression">
-          <img src="https://img.shields.io/badge/Neural_Regression-4A90E2?style=for-the-badge"/>
-        </a>
-      </p>
-      <p align="center">
-        <samp>
-          Generalization analysis in <strong>MLPs</strong> for real estate price prediction. 
-          K-Fold Cross-Validation, <strong>Bayesian Optimization (Optuna)</strong>, 
-          and enterprise MLOps practices. Academic research @ UFRN.
-        </samp>
-      </p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/PyTorch-2.0.1-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Optuna-3.3.0-00C853?style=flat-square"/>
-        <img src="https://img.shields.io/badge/UFRN-ELE_0604-1e3a8a?style=flat-square"/>
-      </p>
-    </td>
-    <td width="33%">
-      <h3 align="center">⚖️ LegalTrace</h3>
-      <p align="center">
-        <a href="https://github.com/takaokensei/legal-traceability-system">
-          <img src="https://img.shields.io/badge/PIBIC_Research-2c4c7c?style=for-the-badge"/>
-        </a>
-      </p>
-      <p align="center">
-        <samp>
-          <strong>PIBIC/CNPq</strong> research on normative traceability. 
-          Uses <strong>OCR, BERTimbau & LLMs</strong> to structure municipal legal PDFs 
-          into a consolidated Django platform. Advisor: Prof. José Alfredo Costa.
-        </samp>
-      </p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white"/>
-        <img src="https://img.shields.io/badge/BERTimbau-FFD21E?style=flat-square"/>
-        <img src="https://img.shields.io/badge/UFRN-PIBIC-2c4c7c?style=flat-square"/>
-      </p>
-    </td>
-  </tr>
-</table>
+<div align="center">
+  
+  ### 🧠 VerbaFlow
+  
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=takaokensei&repo=VerbaFlow&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=4A6FA5&icon_color=4A6FA5&text_color=9CA3AF)](https://github.com/takaokensei/VerbaFlow)
+  
+  Multi-agent text classification system using **CrewAI & Groq**. Implements **ReAct paradigm** with real-time web enrichment via Tavily API. Academic project demonstrating agentic orchestration in NLP.
+  
+  ![Python](https://img.shields.io/badge/Python-3.12-3776AB?style=flat-square&logo=python&logoColor=white)
+  ![CrewAI](https://img.shields.io/badge/CrewAI-1e3a8a?style=flat-square)
+  ![UFRN](https://img.shields.io/badge/UFRN-ELE_0606-1e3a8a?style=flat-square)
+  
+  ---
+  
+  ### 🎯 BostonNet
+  
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=takaokensei&repo=ufrn-ele-neural-regression&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=4A6FA5&icon_color=4A6FA5&text_color=9CA3AF)](https://github.com/takaokensei/ufrn-ele-neural-regression)
+  
+  Generalization analysis in **MLPs** for real estate price prediction. K-Fold Cross-Validation, **Bayesian Optimization (Optuna)**, and enterprise MLOps practices. Academic research @ UFRN.
+  
+  ![PyTorch](https://img.shields.io/badge/PyTorch-2.0.1-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+  ![Optuna](https://img.shields.io/badge/Optuna-3.3.0-00C853?style=flat-square)
+  ![UFRN](https://img.shields.io/badge/UFRN-ELE_0604-1e3a8a?style=flat-square)
+  
+  ---
+  
+  ### ⚖️ LegalTrace
+  
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=takaokensei&repo=legal-traceability-system&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=4A6FA5&icon_color=4A6FA5&text_color=9CA3AF)](https://github.com/takaokensei/legal-traceability-system)
+  
+  **PIBIC/CNPq** research on normative traceability. Uses **OCR, BERTimbau & LLMs** to structure municipal legal PDFs into a consolidated Django platform. Advisor: Prof. José Alfredo Costa.
+  
+  ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+  ![BERTimbau](https://img.shields.io/badge/BERTimbau-FFD21E?style=flat-square)
+  ![PIBIC](https://img.shields.io/badge/UFRN-PIBIC-2c4c7c?style=flat-square)
+  
+</div>
 
 <br/>
 
@@ -168,6 +153,18 @@ class Takaokensei:
 
 <div align="center">
   <img width="92%" src="https://github-readme-activity-graph.vercel.app/graph?username=takaokensei&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=4A6FA5&line=4A6FA5&point=ffffff&area=true&area_color=2c4c7c"/>
+</div>
+
+<br/>
+
+---
+
+<div align="center">
+  <samp>
+    <strong>💬 Let's connect and build something amazing together!</strong>
+    <br/>
+    Open to collaborations in AI research, multi-agent systems, and full-stack development.
+  </samp>
 </div>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=2c4c7c&height=100&section=footer"/>
