@@ -91,6 +91,7 @@ class Takaokensei:
   <img src="https://img.shields.io/badge/Python-3.12-3776AB?style=flat-square&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/CrewAI-1e3a8a?style=flat-square"/>
   <img src="https://img.shields.io/badge/DSA-Capstone-FFD21E?style=flat-square"/>
+  <img src="https://img.shields.io/badge/UFRN-ELE_0606-1e3a8a?style=flat-square"/>
 </p>
 </td>
 <td width="33%">
@@ -104,7 +105,7 @@ class Takaokensei:
 <p align="center">
   <img src="https://img.shields.io/badge/PyTorch-2.0.1-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/>
   <img src="https://img.shields.io/badge/Optuna-3.3.0-00C853?style=flat-square"/>
-  <img src="https://img.shields.io/badge/UFRN-ELE_604-1e3a8a?style=flat-square"/>
+  <img src="https://img.shields.io/badge/UFRN-ELE_0604-1e3a8a?style=flat-square"/>
 </p>
 </td>
 <td width="33%">
