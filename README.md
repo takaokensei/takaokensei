@@ -142,8 +142,4 @@ class Takaokensei:
 <div align="center">
   <img width="92%" src="https://github-readme-activity-graph.vercel.app/graph?username=takaokensei&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=4A6FA5&line=4A6FA5&point=ffffff&area=true&area_color=2c4c7c"/>
 </div>
-<div align="center">
-  <br/>
-  <img src="https://komarev.com/ghpvc/?username=takaokensei&style=flat-square&color=2c4c7c&label=PROFILE+VIEWS"/>
-</div>
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=2c4c7c&height=100&section=footer"/>
