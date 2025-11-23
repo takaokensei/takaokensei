@@ -79,22 +79,36 @@ class Takaokensei:
 
 <table align="center">
 <tr>
-<td width="50%">
-<h3 align="center">🤖 VerbaFlow</h3>
+<td width="33%">
+<h3 align="center">🧠 VerbaFlow</h3>
 <p align="center">
-  <a href="https://github.com/takaokensei/verbaflow">
-    <img src="https://img.shields.io/badge/Multi--Agent_System-4A6FA5?style=for-the-badge"/>
+  <a href="https://github.com/takaokensei/VerbaFlow">
+    <img src="https://img.shields.io/badge/Multi--Agent_NLP-dc2626?style=for-the-badge"/>
   </a>
 </p>
-<p align="center"><samp>Orchestrated AI pipeline using CrewAI & LLMs for automated content generation and analysis workflows.</samp></p>
+<p align="center"><samp>Orchestrated AI pipeline using <strong>CrewAI & LLMs</strong> for automated text classification and web-enriched content analysis. ReAct paradigm with Tavily Search integration.</samp></p>
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CrewAI-4A6FA5?style=flat-square"/>
-  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Python-3.12-3776AB?style=flat-square&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CrewAI-1e3a8a?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Groq-00C853?style=flat-square"/>
 </p>
 </td>
-<td width="50%">
-<h3 align="center">⚖️ Legal-Traceability-LLM</h3>
+<td width="33%">
+<h3 align="center">🎯 BostonNet</h3>
+<p align="center">
+  <a href="https://github.com/takaokensei/ufrn-ele-neural-regression">
+    <img src="https://img.shields.io/badge/Neural_Regression-4A90E2?style=for-the-badge"/>
+  </a>
+</p>
+<p align="center"><samp>Generalization analysis in <strong>MLPs</strong> for real estate price prediction. K-Fold validation, Bayesian Optimization with <strong>Optuna</strong>, and enterprise MLOps practices.</samp></p>
+<p align="center">
+  <img src="https://img.shields.io/badge/PyTorch-2.0.1-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Optuna-3.3.0-00C853?style=flat-square"/>
+  <img src="https://img.shields.io/badge/UFRN-1e3a8a?style=flat-square"/>
+</p>
+</td>
+<td width="33%">
+<h3 align="center">⚖️ LegalTrace</h3>
 <p align="center">
   <a href="https://github.com/takaokensei/legal-traceability-system">
     <img src="https://img.shields.io/badge/PIBIC_Research-2c4c7c?style=for-the-badge"/>
@@ -104,7 +118,7 @@ class Takaokensei:
 <p align="center">
   <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white"/>
   <img src="https://img.shields.io/badge/BERTimbau-FFD21E?style=flat-square"/>
-  <img src="https://img.shields.io/badge/OCR_Pipeline-4A6FA5?style=flat-square"/>
+  <img src="https://img.shields.io/badge/OCR-4A6FA5?style=flat-square"/>
 </p>
 </td>
 </tr>
@@ -116,7 +130,7 @@ class Takaokensei:
 
 <div align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=takaokensei&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=4A6FA5&icon_color=4A6FA5&text_color=9CA3AF"/>
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=takaokensei&theme=tokyonight&hide_border=true&background=0D1117&ring=4A6FA5&fire=4A6FA5&currStreakLabel=4A6FA5&sideLabels=9CA3AF&dates=6B7280"/>
+  <img width="49%" src="https://github-readme-streak-stats-eight.vercel.app?user=takaokensei&theme=tokyonight&hide_border=true&background=0D1117&ring=4A6FA5&fire=4A6FA5&currStreakLabel=4A6FA5&sideLabels=9CA3AF&dates=6B7280"/>
 </div>
 
 <div align="center">
