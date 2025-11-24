@@ -21,7 +21,6 @@
   
   <br/><br/>
   
-  <img src="https://img.shields.io/badge/🔥_Open_to_Collaborations-2c4c7c?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/PIBIC_Researcher_@_UFRN-4A6FA5?style=for-the-badge"/>
 </div>
 
@@ -196,9 +195,8 @@ class Takaokensei:
 
 <div align="center">
   <samp>
-    <strong>💬 Let's connect and build something amazing together!</strong>
-    <br/>
-    Open to collaborations in AI research, multi-agent systems, and full-stack development.
+    <strong>Building the next layer of intelligence through multi-agent systems and production-grade AI.</strong><br/>
+    If you're working on similar problems — transformers, orchestration, real deployment — let's talk.
   </samp>
 </div>
 
