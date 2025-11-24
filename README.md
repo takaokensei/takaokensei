@@ -47,6 +47,13 @@ class Takaokensei:
             "exploring": "Advanced RAG & Agent Orchestration"
         }
     
+    def academic_profile(self):
+        return {
+            "lattes": "http://lattes.cnpq.br/6248557957222073",
+            "area": "Electrical Engineering",
+            "status": "PIBIC Researcher (CNPq Grant)"
+        }
+    
     def open_to(self):
         return [
             "🤝 Research collaborations",
@@ -158,6 +165,34 @@ class Takaokensei:
 <br/>
 
 ---
+
+<div align="center">
+  
+  <strong>Cauã Vitor Figueredo Silva</strong>
+  <br/>
+  <samp>Electrical Engineering · UFRN · AI Researcher</samp>
+  
+  <br/><br/>
+  
+  <a href="http://lattes.cnpq.br/6248557957222073">
+    <img src="https://img.shields.io/badge/📄_Currículo_Lattes-CNPq-2c4c7c?style=for-the-badge&logo=researchgate&logoColor=white"/>
+  </a>
+  
+  <br/><br/>
+  
+  <a href="mailto:cauavitorfigueredo@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/cauã-vitor-7bb072286/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://github.com/takaokensei">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  
+</div>
+
+<br/>
 
 <div align="center">
   <samp>
