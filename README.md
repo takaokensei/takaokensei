@@ -121,7 +121,7 @@ class Takaokensei:
   
   ### ⚖️ Jurix
   
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=takaokensei&repo=jurix&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=4A6FA5&icon_color=4A6FA5&text_color=9CA3AF)](https://github.com/takaokensei/legal-traceability-system)
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=takaokensei&repo=jurix&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=4A6FA5&icon_color=4A6FA5&text_color=9CA3AF)](https://github.com/takaokensei/jurix)
   
   **PIBIC/CNPq** research on normative traceability. Uses **OCR, BERTimbau & LLMs** to structure municipal legal PDFs into a consolidated Django platform. Advisor: Prof. José Alfredo Costa.
   
