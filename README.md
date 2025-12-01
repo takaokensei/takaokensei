@@ -145,22 +145,22 @@ class Takaokensei:
 
 <div align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=takaokensei&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&rank=SECRET,SSS,SS,S,AAA,AA,A,B" />
+    <img src="https://github-profile-trophy-theta-mocha.vercel.app/?username=takaokensei&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&rank=SECRET,SSS,SS,S,AAA,AA,A,B&v=1" />
   </a>
 </div>
 
 <br/>
 
 <div align="center">
-  <img width="49%" src="https://readme-stats-mocha-xi.vercel.app/api?username=takaokensei&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=4A6FA5&icon_color=4A6FA5&text_color=9CA3AF&include_all_commits=true&count_private=true&cache_bust=1"/>
+  <img width="49%" src="https://readme-stats-mocha-xi.vercel.app/api?username=takaokensei&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=4A6FA5&icon_color=4A6FA5&text_color=9CA3AF&include_all_commits=true&count_private=true&v=1"/>
   &nbsp;
-  <img width="40%" src="https://readme-stats-mocha-xi.vercel.app/api/top-langs/?username=takaokensei&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=4A6FA5&text_color=9CA3AF&icon_color=4A6FA5&hide=jupyter%20notebook&langs_count=8&cache_bust=1"/>
+  <img width="40%" src="https://readme-stats-mocha-xi.vercel.app/api/top-langs/?username=takaokensei&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=4A6FA5&text_color=9CA3AF&icon_color=4A6FA5&hide=jupyter%20notebook&langs_count=8&v=1"/>
 </div>
 
 <br/>
 
 <div align="center">
-  <img width="92%" src="https://github-readme-activity-graph.vercel.app/graph?username=takaokensei&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=4A6FA5&line=4A6FA5&point=ffffff&area=true&area_color=2c4c7c"/>
+  <img width="92%" src="https://github-readme-activity-graph-mu-ashen.vercel.app/graph?username=takaokensei&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=4A6FA5&line=4A6FA5&point=ffffff&area=true&area_color=2c4c7c&v=1"/>
 </div>
 
 <br/>
