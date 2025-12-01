@@ -145,7 +145,7 @@ class Takaokensei:
 
 <div align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy-theta-mocha.vercel.app/?username=takaokensei&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&rank=SECRET,SSS,SS,S,AAA,AA,A,B&v=2" />
+    <img src="https://github-profile-trophy-theta-mocha.vercel.app/?username=takaokensei&theme=tokyonight&no-frame=true&margin-w=4&rank=SECRET,SSS,SS,S,AAA,AA,A,B&v=4" />
   </a>
 </div>
 
