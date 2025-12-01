@@ -103,7 +103,7 @@ class Takaokensei:
   
   ### 🧠 NewsLens AI Classifier
   
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=takaokensei&repo=newslens-classifier&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=4A6FA5&icon_color=4A6FA5&text_color=9CA3AF)](https://github.com/takaokensei/newslens-classifier)
+  [![Readme Card](https://readme-stats-mocha-xi.vercel.app/api/pin/?username=takaokensei&repo=newslens-classifier&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=4A6FA5&icon_color=4A6FA5&text_color=9CA3AF&v=1)](https://github.com/takaokensei/newslens-classifier)
   
   Production-grade text classification system comparing **TF-IDF (sparse) vs BERT (dense) embeddings** with **SVM & XGBoost**. Features **K-fold CV**, **Bayesian hyperparameter optimization (Optuna)**, **LLM-powered explanations** via Groq API, and a complete **Streamlit dashboard** with monitoring. Academic project demonstrating MLOps best practices in NLP.
   
@@ -117,7 +117,7 @@ class Takaokensei:
   
   ### 🎯 BostonNet
   
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=takaokensei&repo=ufrn-ele-neural-regression&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=4A6FA5&icon_color=4A6FA5&text_color=9CA3AF)](https://github.com/takaokensei/ufrn-ele-neural-regression)
+  [![Readme Card](https://readme-stats-mocha-xi.vercel.app/api/pin/?username=takaokensei&repo=ufrn-ele-neural-regression&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=4A6FA5&icon_color=4A6FA5&text_color=9CA3AF&v=1)](https://github.com/takaokensei/ufrn-ele-neural-regression)
   
   Generalization analysis in **MLPs** for real estate price prediction. K-Fold Cross-Validation, **Bayesian Optimization (Optuna)**, and enterprise MLOps practices. Academic research @ UFRN.
   
@@ -129,7 +129,7 @@ class Takaokensei:
   
   ### ⚖️ Jurix
   
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=takaokensei&repo=jurix&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=4A6FA5&icon_color=4A6FA5&text_color=9CA3AF)](https://github.com/takaokensei/jurix)
+  [![Readme Card](https://readme-stats-mocha-xi.vercel.app/api/pin/?username=takaokensei&repo=jurix&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=4A6FA5&icon_color=4A6FA5&text_color=9CA3AF&v=1)](https://github.com/takaokensei/jurix)
   
   **PIBIC/CNPq** research on normative traceability. Uses **OCR, BERTimbau & LLMs** to structure municipal legal PDFs into a consolidated Django platform. Advisor: Prof. José Alfredo Costa.
   
@@ -145,7 +145,7 @@ class Takaokensei:
 
 <div align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy-theta-mocha.vercel.app/?username=takaokensei&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&rank=SECRET,SSS,SS,S,AAA,AA,A,B&v=1" />
+    <img src="https://github-profile-trophy-theta-mocha.vercel.app/?username=takaokensei&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&rank=SECRET,SSS,SS,S,AAA,AA,A,B&v=2" />
   </a>
 </div>
 
