@@ -101,15 +101,17 @@ class Takaokensei:
 
 <div align="center">
   
-  ### 🧠 VerbaFlow
+  ### 🧠 NewsLens AI Classifier
   
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=takaokensei&repo=VerbaFlow&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=4A6FA5&icon_color=4A6FA5&text_color=9CA3AF)](https://github.com/takaokensei/VerbaFlow)
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=takaokensei&repo=newslens-classifier&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=4A6FA5&icon_color=4A6FA5&text_color=9CA3AF)](https://github.com/takaokensei/newslens-classifier)
   
-  Multi-agent text classification system using **CrewAI & Groq**. Implements **ReAct paradigm** with real-time web enrichment via Tavily API. Academic project demonstrating agentic orchestration in NLP.
+  Production-grade text classification system comparing **TF-IDF (sparse) vs BERT (dense) embeddings** with **SVM & XGBoost**. Features **K-fold CV**, **Bayesian hyperparameter optimization (Optuna)**, **LLM-powered explanations** via Groq API, and a complete **Streamlit dashboard** with monitoring. Academic project demonstrating MLOps best practices in NLP.
   
-  ![Python](https://img.shields.io/badge/Python-3.12-3776AB?style=flat-square&logo=python&logoColor=white)
-  ![CrewAI](https://img.shields.io/badge/CrewAI-1e3a8a?style=flat-square)
-  ![UFRN](https://img.shields.io/badge/UFRN-ELE_0606-1e3a8a?style=flat-square)
+  ![Python](https://img.shields.io/badge/Python-3.8+-3776AB?style=flat-square&logo=python&logoColor=white)
+  ![BERT](https://img.shields.io/badge/BERT-Portuguese-FF6B6B?style=flat-square&logo=huggingface&logoColor=white)
+  ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+  ![Optuna](https://img.shields.io/badge/Optuna-2B3A42?style=flat-square&logo=python&logoColor=white)
+  ![UFRN](https://img.shields.io/badge/UFRN-ELE_606-1e3a8a?style=flat-square)
   
   ---
   
