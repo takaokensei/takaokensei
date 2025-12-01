@@ -144,9 +144,7 @@ class Takaokensei:
 ## `> metrics_&_analytics`
 
 <div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy-theta-mocha.vercel.app/?username=takaokensei&theme=tokyonight&no-frame=true&margin-w=4&rank=SECRET,SSS,SS,S,AAA,AA,A,B&v=4" />
-  </a>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=takaokensei&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=0D1117&ring=4A6FA5&fire=4A6FA5&currStreakNum=9CA3AF&sideNums=9CA3AF&currStreakLabel=4A6FA5&sideLabels=4A6FA5" />
 </div>
 
 <br/>
