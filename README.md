@@ -152,9 +152,9 @@ class Takaokensei:
 <br/>
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=takaokensei&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=4A6FA5&icon_color=4A6FA5&text_color=9CA3AF&include_all_commits=true&count_private=true"/>
+  <img width="49%" src="https://readme-stats-mocha-xi.vercel.app/api?username=takaokensei&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=4A6FA5&icon_color=4A6FA5&text_color=9CA3AF&include_all_commits=true&count_private=true"/>
   &nbsp;
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=takaokensei&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=4A6FA5&text_color=9CA3AF&icon_color=4A6FA5&hide=jupyter%20notebook&langs_count=8"/>
+  <img width="40%" src="https://readme-stats-mocha-xi.vercel.app/api/top-langs/?username=takaokensei&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=4A6FA5&text_color=9CA3AF&icon_color=4A6FA5&hide=jupyter%20notebook&langs_count=8"/>
 </div>
 
 <br/>
