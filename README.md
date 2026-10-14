@@ -138,7 +138,20 @@ class Takaokensei:
 ## `> lines_of_code`
 
 <!--LOC:START-->
-_Populated automatically by the `update-loc` workflow. Run it once from the Actions tab._
+| Language | Lines of code | Share | |
+|---|--:|--:|---|
+| Python | 107,510 | 53.1% | `███████████░░░░░░░░░` |
+| TypeScript | 37,872 | 18.7% | `████░░░░░░░░░░░░░░░░` |
+| JavaScript | 25,345 | 12.5% | `███░░░░░░░░░░░░░░░░░` |
+| CSS | 9,961 | 4.9% | `█░░░░░░░░░░░░░░░░░░░` |
+| PHP | 4,965 | 2.5% | `░░░░░░░░░░░░░░░░░░░░` |
+| Rust | 4,907 | 2.4% | `░░░░░░░░░░░░░░░░░░░░` |
+| HTML | 4,763 | 2.4% | `░░░░░░░░░░░░░░░░░░░░` |
+| TeX | 3,805 | 1.9% | `░░░░░░░░░░░░░░░░░░░░` |
+| Other | 3,225 | 1.6% | `░░░░░░░░░░░░░░░░░░░░` |
+| **Total** | **202,353** | 100% | |
+
+<sub>25 public repositories (forks excluded) · generated and vendored files ignored · updated 2026-10-14 (UTC)</sub>
 <!--LOC:END-->
 
 <br/>
