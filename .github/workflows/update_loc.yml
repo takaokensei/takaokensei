@@ -26,7 +26,7 @@ jobs:
           INCLUDE_PRIVATE: ${{ secrets.LOC_TOKEN != '' && 'true' || 'false' }}
           EXCLUDE_REPOS: ""
           TOP_N: "8"
-        run: python scripts/update_loc.py
+        run: python .github/scripts/update_loc.py
 
       - name: Commit changes
         run: |
