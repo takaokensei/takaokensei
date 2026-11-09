@@ -140,18 +140,18 @@ class Takaokensei:
 <!--LOC:START-->
 | Language | Lines of code | Share | |
 |---|--:|--:|---|
-| Python | 141,845 | 42.4% | `████████░░░░░░░░░░░░` |
-| Kotlin | 61,083 | 18.3% | `████░░░░░░░░░░░░░░░░` |
+| Python | 141,845 | 42.3% | `████████░░░░░░░░░░░░` |
+| Kotlin | 61,965 | 18.5% | `████░░░░░░░░░░░░░░░░` |
 | TypeScript | 49,445 | 14.8% | `███░░░░░░░░░░░░░░░░░` |
 | JavaScript | 40,726 | 12.2% | `██░░░░░░░░░░░░░░░░░░` |
 | CSS | 10,497 | 3.1% | `█░░░░░░░░░░░░░░░░░░░` |
 | Java | 5,891 | 1.8% | `░░░░░░░░░░░░░░░░░░░░` |
 | HTML | 5,714 | 1.7% | `░░░░░░░░░░░░░░░░░░░░` |
 | PHP | 4,965 | 1.5% | `░░░░░░░░░░░░░░░░░░░░` |
-| Other | 14,101 | 4.2% | `█░░░░░░░░░░░░░░░░░░░` |
-| **Total** | **334,267** | 100% | |
+| Other | 14,105 | 4.2% | `█░░░░░░░░░░░░░░░░░░░` |
+| **Total** | **335,153** | 100% | |
 
-<sub>30 public + private repositories (forks excluded) · generated and vendored files ignored · updated 2026-11-02 (UTC)</sub>
+<sub>30 public + private repositories (forks excluded) · generated and vendored files ignored · updated 2026-11-09 (UTC)</sub>
 <!--LOC:END-->
 
 <br/>
